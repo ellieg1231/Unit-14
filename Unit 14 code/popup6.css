@@ -1,0 +1,128 @@
+
+*{
+    margin-top:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1{
+  float: right;
+  font-size:15px;
+  margin-right:100px;
+  margin-top:-50px;
+  }
+  
+  .container1{
+  height:300px;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right:100px;
+  }
+  
+  h2{
+  padding-top:25px;
+  margin-left:100px;
+  font-size:40pt;
+  }
+  
+  p{
+  margin-left:100px;
+  font-size: 30px;
+  }
+  
+  .button{
+  height:30px;
+  width:200px;
+  background-color: black;
+  margin-left:200px;
+  margin-top:-30px;
+  }
+  
+  .white{
+  color:white;
+  font-size:20px;
+  margin-top: -25px;
+  margin-left:250px;
+  font-weight: bolder;
+  }
+  
+  .computer{
+  height:300px;
+  width:500px;
+  float:right;
+  margin-right:200px;
+  margin-top: -300px;
+  }
+  
+  .popup{
+  height:400px;
+  width:650px;
+  background-color:white;
+  display: block;
+  margin-top: -400px;
+  position: fixed;
+  margin-left: 300px;
+  border:1px solid #021a40
+  }
+  
+  h3{
+  padding-top:50px;
+  font-size:30pt;
+  text-align: center;
+  }
+  
+  .email{
+  height:50px;
+  width:300px;
+  margin-top:20px;
+  background-color: white;
+  border:2px solid green;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  .emailtext{
+    color:grey;
+    font-size:16px;
+    margin-top: 15px;
+    margin-left:20px;
+    }
+  
+  button{
+    height:50px;
+    width:300px;
+    margin-top:25px;
+    background-color: white;
+    border:2px solid green;
+    margin-left: auto;
+    margin-right: auto;
+    }
+  
+  .passwordtext{
+    color:grey;
+    font-size:18px;
+    margin-top: 20px;
+    margin-left:-200px;
+    }
+
+  .continue{
+    height:30px;
+    width:200px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+  }
+  
+  .continuetext{
+    color:white;
+    font-size:20px;
+    font-weight: bolder;
+    margin-left:55px;
+    padding-top:5px;
+   
+  }
+  
+  
+  
+

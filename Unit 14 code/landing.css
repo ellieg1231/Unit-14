@@ -1,0 +1,55 @@
+
+     *{
+        margin-top:0px;
+        padding:0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+h1{
+    float: right;
+    font-size:15px;
+    margin-right:100px;
+    margin-top:-50px;
+}
+
+.container1{
+    height:300px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right:100px;
+}
+
+h2{
+    padding-top:25px;
+    margin-left:100px;
+    font-size:40pt;
+}
+
+p{
+    margin-left:100px;
+    font-size: 30px;
+}
+
+button{
+    height:30px;
+    width:200px;
+    background-color: black;
+    margin-left:200px;
+    margin-top:-100px;
+}
+
+.white{
+    color:white;
+    font-size:20px;
+    margin-top: -25px;
+    margin-left:250px;
+    font-weight: bolder;
+}
+
+.computer{
+    height:300px;
+    width:500px;
+    float:right;
+    margin-right:200px;
+    margin-top: -300px;
+}
